@@ -9,10 +9,10 @@ Senior Software Engineer with 7+ years building full-stack web products. Current
 
 ### What I work with
 
-**Frontend:** React, Next.js, TypeScript, Vue.js, React Native
-**Backend:** Node.js, Python (FastAPI, Django), PostgreSQL, REST APIs
-**AI Engineering:** LLM coding agents, multi-agent workflows, Databricks
-**Cloud & Tooling:** Vercel, AWS, Azure, Cloudflare, Contentful
+- **Frontend:** React, Next.js, TypeScript, Vue.js, React Native
+- **Backend:** Node.js, Python (FastAPI, Django), PostgreSQL, REST APIs
+- **AI Engineering:** LLM coding agents, multi-agent workflows, Databricks
+- **Cloud & Tooling:** Vercel, AWS, Azure, Cloudflare, Contentful
 
 ### A note on this profile
 
